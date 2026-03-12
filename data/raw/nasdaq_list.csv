@@ -1,0 +1,951 @@
+ticker,company_name,sector
+A,Agilent Technologies ,Industrials
+AA,Alcoa Corporation,Industrials
+AAPL,Apple ,Technology
+ABBV,AbbVie ,Health Care
+ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share),Consumer Staples
+ABNB,Airbnb . Class A,Consumer Discretionary
+ABT,Abbott Laboratories,Health Care
+ACGL,Arch Capital Group Ltd,Finance
+ACM,AECOM,Consumer Discretionary
+ACN,Accenture plc Class A Ordinary Shares (Ireland),Real Estate
+ADBE,Adobe ,Technology
+ADI,Analog Devices ,Technology
+ADM,Archer-Daniels-Midland Company,Consumer Staples
+ADP,Automatic Data Processing ,Industrials
+ADSK,Autodesk ,Technology
+AEE,Ameren Corporation,Utilities
+AEG,Aegon Ltd. New York Registry Shares,Finance
+AEM,Agnico Eagle Mines Limited,Basic Materials
+AEP,American Electric Power Company ,Utilities
+AER,AerCap Holdings N.V. Ordinary Shares,Consumer Discretionary
+AFG,American Financial Group ,Finance
+AFL,AFLAC orporated,Finance
+AFRM,Affirm Holdings . Class A,Finance
+AGI,Alamos Gold . Class A Common Shares,Basic Materials
+AGNC,AGNC Investment Corp,Real Estate
+AGNCL,AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.75% Series G Fixed-Rate Reset Cumulative Redeemable Preferred Stock,Real Estate
+AGNCM,AGNC Investment Corp. Depositary Shares rep 6.875% Series D Fixed-to-Floating Cumulative Redeemable Preferred Stock,Real Estate
+AGNCN,AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock,Real Estate
+AGNCO,AGNC Investment Corp. Depositary Shares each representing a 1/1000th interest in a share of 6.50% Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock,Real Estate
+AGNCP,AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,Real Estate
+AGNCZ,AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 8.75% Series H Fixed-Rate Cumulative Redeemable Preferred Stock,
+AIG,American International Group . New,Finance
+AIZ,Assurant ,Finance
+AJG,Arthur J. Gallagher & Co,Finance
+AKAM,Akamai Technologies ,Real Estate
+ALAB,Astera Labs ,Technology
+ALB,Albemarle Corporation,Industrials
+ALC,Alcon . Ordinary Shares,Health Care
+ALGN,Align Technology ,Health Care
+ALL,Allstate Corporation (The),Finance
+ALLE,Allegion plc Ordinary Shares,Consumer Discretionary
+ALLY,Ally Financial ,Finance
+ALNY,Alnylam Pharmaceuticals ,Health Care
+AMAT,Applied Materials ,Technology
+AMCR,Amcor plc Ordinary Shares,Consumer Discretionary
+AMD,Advanced Micro Devices ,Technology
+AME,AMETEK ,Industrials
+AMGN,Amgen ,Health Care
+AMH,American Homes 4 Rent Common Shares of Beneficial Interest,Real Estate
+AMP,Ameriprise Financial ,Finance
+AMRZ,Amrize Ltd Ordinary Shares,Industrials
+AMT,American Tower Corporation (REIT),Real Estate
+AMX,America Movil S.A.B. de C.V. American Depositary Shares (each representing the right to receive twenty (20) Series B Shares,Telecommunications
+AMZN,Amazon.com ,Consumer Discretionary
+ANET,Arista Networks ,Telecommunications
+AON,Aon plc Class A Ordinary Shares (Ireland),Finance
+APD,Air Products and Chemicals ,Basic Materials
+APG,APi Group Corporation,Consumer Discretionary
+APH,Amphenol Corporation,Technology
+APO,Apollo Global Management . (New),Finance
+APOS,Apollo Global Management . 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053,Finance
+APP,Applovin Corporation Class A,Technology
+APTV,Aptiv PLC Ordinary Shares,Consumer Discretionary
+AQNB,Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July 1 2079,Utilities
+AR,Antero Resources Corporation,Energy
+ARCC,Ares Capital Corporation,Finance
+ARES,Ares Management Corporation Class A,Finance
+ARGX,argenx SE American Depositary Shares,Health Care
+ARM,Arm Holdings plc American Depositary Shares,Technology
+AS,Amer Sports . Ordinary Shares,Consumer Discretionary
+ASML,ASML Holding N.V. New York Registry Shares,Technology
+ASND,Ascendis Pharma A/S American Depositary Shares,Health Care
+ASTS,AST SpaceMobile . Class A,Consumer Discretionary
+ASX,ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares),Technology
+ATI,ATI ,Industrials
+ATO,Atmos Energy Corporation,Utilities
+AU,AngloGold Ashanti PLC Ordinary Shares,Basic Materials
+AVAV,AeroVironment ,Industrials
+AVB,AvalonBay Communities ,Real Estate
+AVGO,Broadcom ,Technology
+AVY,Avery Dennison Corporation,Consumer Discretionary
+AWK,American Water Works Company ,Utilities
+AXIA,AXIA Energia American Depositary Shares (Each representing one Common Share),Utilities
+AXON,Axon Enterprise ,Industrials
+AXP,American Express Company,Finance
+AYI,Acuity ,Consumer Discretionary
+AZN,AstraZeneca PLC American Depositary Shares,Health Care
+AZO,AutoZone ,Consumer Discretionary
+B,Barrick Mining Corporation Common Shares,Basic Materials
+BA,Boeing Company (The),Industrials
+BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,Real Estate
+BAC,Bank of America Corporation,Finance
+BAH,Booz Allen Hamilton Holding Corporation,Consumer Discretionary
+BALL,Ball Corporation,Industrials
+BAM,Brookfield Asset Management Class A Limited Voting Shares,Consumer Discretionary
+BAP,Credicorp Ltd,Finance
+BBD,Banco Bradesco Sa American Depositary Shares,Finance
+BBDO,Banco Bradesco Sa American Depositary Shares (each representing one Common Share),Finance
+BBIO,BridgeBio Pharma ,Health Care
+BBVA,Banco Bilbao Vizcaya Argentaria S.A,Finance
+BBY,Best Buy Co. ,Consumer Discretionary
+BCE,BCE ,Telecommunications
+BCH,Banco De Chile ADS,Finance
+BCS,Barclays PLC,Finance
+BDX,Becton Dickinson and Company,Health Care
+BE,Bloom Energy Corporation Class A,Energy
+BEKE,KE Holdings American Depositary Shares (each representing three Class A Ordinary Shares),Finance
+BEN,Franklin Resources ,Finance
+BEP,Brookfield Renewable Partners L.P. Limited Partnership Units,Utilities
+BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,Utilities
+BG,Bunge Limited Common Shares,Consumer Staples
+BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),Energy
+BIDU,Baidu . ADS,Technology
+BIIB,Biogen ,Health Care
+BILI,Bilibili . American Depositary Shares,Technology
+BIP,Brookfield Infrastructure Partners LP Limited Partnership Units,Consumer Discretionary
+BIPJ,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,Utilities
+BJ,BJ's Wholesale Club Holdings ,Consumer Discretionary
+BK,The Bank of New York Mellon Corporation,Finance
+BKNG,Booking Holdings ,Consumer Discretionary
+BKR,Baker Hughes Company Class A,Consumer Discretionary
+BLD,TopBuild Corp,Consumer Discretionary
+BLDR,Builders FirstSource ,Consumer Discretionary
+BLK,BlackRock ,Finance
+BMNR,BitMine Immersion Technologies ,Finance
+BMO,Bank Of Montreal,Finance
+BMRN,BioMarin Pharmaceutical ,Health Care
+BMY,Bristol-Myers Squibb Company,Health Care
+BN,Brookfield Corporation Class A Limited Voting Shares,Real Estate
+BNH,Brookfield Finance . 4.625% Subordinated Notes due October 16 2080,Real Estate
+BNJ,Brookfield Finance . 4.50% Perpetual Subordinated Notes,Real Estate
+BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,Finance
+BNT,Brookfield Wealth Solutions Ltd. Class A Exchangeable Limited Voting Shares,Finance
+BNTX,BioNTech SE American Depositary Share,Health Care
+BP,BP p.l.c,Energy
+BPYPM,Brookfield Property Partners L.P. 6.25% Class A Cumulative Redeemable Preferred Units Series 1,Finance
+BPYPN,Brookfield Property Partners L.P. 5.750% Class A Cumulative Redeemable Perpetual Preferred Units Series 3,Finance
+BPYPO,Brookfield Property Partners L.P. 6.375% Class A Cumulative Redeemable Perpetual Preferred Units Series 2,Finance
+BPYPP,Brookfield Property Partners L.P. 6.50% Class A Cumulative Redeemable Perpetual Preferred Units,Finance
+BR,Broadridge Financial Solutions ,Real Estate
+BRK/A,Berkshire Hathaway ,
+BRK/B,Berkshire Hathaway ,
+BRKRP,Bruker Corporation 6.375% Mandatory Convertible Preferred Stock Series A,Industrials
+BRO,Brown & Brown ,Finance
+BSAC,Banco Santander - Chile ADS,Finance
+BSBR,Banco Santander Brasil SA American Depositary Shares each representing one unit,Finance
+BSX,Boston Scientific Corporation,Health Care
+BSY,Bentley Systems orporated Class B,Technology
+BTI,British American Tobacco Industries p.l.c. ADR,Health Care
+BTSGU,BrightSpring Health Services . Tangible Equity Unit,Health Care
+BUD,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),Consumer Staples
+BURL,Burlington Stores ,Consumer Discretionary
+BWXT,BWX Technologies ,Industrials
+BX,Blackstone ,Finance
+BXP,BXP ,Real Estate
+C,Citigroup ,Finance
+CACI,CACI International . Class A,Technology
+CAH,Cardinal Health ,Health Care
+CARR,Carrier Global Corporation,Industrials
+CART,Maplebear ,Real Estate
+CASY,Casey's General Stores ,Consumer Discretionary
+CAT,Caterpillar ,Industrials
+CB,Chubb Limited,Finance
+CBOE,Cboe Global Markets ,Finance
+CBRE,CBRE Group Class A,Finance
+CCEP,Coca-Cola Europacific Partners plc Ordinary Shares,Consumer Staples
+CCI,Crown Castle ,Real Estate
+CCJ,Cameco Corporation,Basic Materials
+CCK,Crown Holdings ,Industrials
+CCL,Carnival Corporation,Consumer Discretionary
+CCZ,Comcast Holdings ZONES,Telecommunications
+CDE,Coeur Mining ,Basic Materials
+CDNS,Cadence Design Systems ,Technology
+CDW,CDW Corporation,Technology
+CEG,Constellation Energy Corporation,Utilities
+CELH,Celsius Holdings ,Consumer Staples
+CET,Central Securities Corporation,Finance
+CF,CF Industries Holdings ,Industrials
+CFG,Citizens Financial Group ,Finance
+CG,The Carlyle Group ,Finance
+CHD,Church & Dwight Company ,Consumer Discretionary
+CHKP,Check Point Software Technologies Ltd. Ordinary Shares,Technology
+CHRW,C.H. Robinson Worldwide ,Industrials
+CHT,Chunghwa Telecom Co. Ltd,Telecommunications
+CHTR,Charter Communications . Class A New,Telecommunications
+CHWY,Chewy . Class A,Consumer Discretionary
+CI,The Cigna Group,Health Care
+CIEN,Ciena Corporation,Utilities
+CINF,Cinnati Financial Corporation,Finance
+CL,Colgate-Palmolive Company,Consumer Discretionary
+CLH,Clean Harbors ,Industrials
+CLS,Celestica ,Technology
+CLX,Clorox Company (The),Consumer Discretionary
+CM,Canadian Imperial Bank of Commerce,Finance
+CMA,Comerica orporated,Finance
+CMCSA,Comcast Corporation Class A,Telecommunications
+CME,CME Group . Class A,Finance
+CMG,Chipotle Mexican Grill ,Consumer Discretionary
+CMI,Cummins ,Industrials
+CMS,CMS Energy Corporation,Utilities
+CNA,CNA Financial Corporation,Finance
+CNC,Centene Corporation,Health Care
+CNH,CNH Industrial N.V. Common Shares,Industrials
+CNI,Canadian National Railway Company,Industrials
+CNP,CenterPoint Energy (Holding Co),Utilities
+CNQ,Canadian Natural Resources Limited,Energy
+COF,Capital One Financial Corporation,Finance
+COHR,Coherent Corp,Technology
+COIN,Coinbase Global . Class A,Finance
+COKE,Coca-Cola Consolidated ,Consumer Staples
+COO,The Cooper Companies ,Health Care
+COP,ConocoPhillips,Energy
+COR,Cencora ,Health Care
+COST,Costco Wholesale Corporation,Consumer Discretionary
+CP,Canadian Pacific Kansas City Limited Common Shares,Industrials
+CPAY,Corpay ,Real Estate
+CPNG,Coupang . Class A,Consumer Discretionary
+CPRT,Copart . (DE),Consumer Discretionary
+CPT,Camden Property Trust,Real Estate
+CQP,Cheniere Energy Partners LP Common Units,Utilities
+CR,Crane Company,Industrials
+CRBG,Corebridge Financial ,Finance
+CRCL,Circle Internet Group . Class A,Finance
+CRDO,Credo Technology Group Holding Ltd Ordinary Shares,Technology
+CRH,CRH PLC Ordinary Shares,Industrials
+CRM,Salesforce ,Technology
+CRS,Carpenter Technology Corporation,Industrials
+CRWD,CrowdStrike Holdings . Class A,Technology
+CRWV,CoreWeave . Class A,Technology
+CSCO,Cisco Systems . (DE),Telecommunications
+CSGP,CoStar Group ,Real Estate
+CSL,Carlisle Companies orporated,Industrials
+CSX,CSX Corporation,Industrials
+CTAS,Cintas Corporation,Industrials
+CTRA,Coterra Energy ,Energy
+CTSH,Cognizant Technology Solutions Corporation Class A,Technology
+CTVA,Corteva ,Consumer Staples
+CUK,Carnival Plc ADS ADS,Consumer Discretionary
+CVE,Cenovus Energy,Energy
+CVNA,Carvana Co. Class A,Consumer Discretionary
+CVS,CVS Health Corporation,Consumer Staples
+CVX,Chevron Corporation,Energy
+CW,Curtiss-Wright Corporation,Technology
+CX,Cemex S.A.B. de C.V. Sponsored ADR,Industrials
+CYBR,CyberArk Software Ltd. Ordinary Shares,Technology
+D,Dominion Energy ,Utilities
+DAL,Delta Air Lines ,Consumer Discretionary
+DASH,DoorDash . Class A,Technology
+DAY,Dayforce ,Technology
+DB,Deutsche Bank AG,Finance
+DCI,Donaldson Company ,Industrials
+DD,DuPont de Nemours ,Industrials
+DDOG,Datadog . Class A,Technology
+DDS,Dillard's ,Consumer Discretionary
+DE,Deere & Company,Industrials
+DECK,Deckers Outdoor Corporation,Consumer Discretionary
+DELL,Dell Technologies . Class C,Technology
+DEO,Diageo plc,Consumer Staples
+DG,Dollar General Corporation,Consumer Discretionary
+DGX,Quest Diagnostics orporated,Health Care
+DHI,D.R. Horton ,Consumer Discretionary
+DHR,Danaher Corporation,Industrials
+DIS,Walt Disney Company (The),Consumer Discretionary
+DKNG,DraftKings . Class A,Consumer Discretionary
+DKS,Dick's Sporting Goods,Consumer Discretionary
+DLR,Digital Realty Trust ,Real Estate
+DLTR,Dollar Tree ,Consumer Discretionary
+DOC,Healthpeak Properties ,Real Estate
+DOCU,DocuSign ,Technology
+DOV,Dover Corporation,Industrials
+DOW,Dow ,Industrials
+DPZ,Domino's Pizza,Consumer Discretionary
+DRI,Darden Restaurants ,Consumer Discretionary
+DT,Dynatrace ,Technology
+DTE,DTE Energy Company,Utilities
+DTM,DT Midstream ,Utilities
+DUK,Duke Energy Corporation (Holding Company),Utilities
+DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,Utilities
+DVN,Devon Energy Corporation,Energy
+DY,Dycom Industries ,Industrials
+E,ENI S.p.A,Energy
+EA,Electronic Arts ,Consumer Discretionary
+EBAY,eBay ,Real Estate
+EC,Ecopetrol S.A. American Depositary Shares,Energy
+ECCF,Eagle Point Credit Company . 8.00% Series F Term Preferred Stock due 2029,
+ECL,Ecolab ,Consumer Discretionary
+ED,Consolidated Edison ,Utilities
+EDU,New Oriental Education & Technology Group . Sponsored ADR representing 10 Ordinary Share (Cayman Islands),Real Estate
+EFX,Equifax ,Finance
+EG,Everest Group Ltd,Finance
+EHC,Encompass Health Corporation,Health Care
+EIX,Edison International,Utilities
+EL,Estee Lauder Companies . (The),Consumer Discretionary
+ELAN,Elanco Animal Health orporated,Health Care
+ELS,Equity Lifestyle Properties ,Real Estate
+ELV,Elevance Health ,Health Care
+ELVR,Elevra Lithium Limited American Depository Shares,Industrials
+EMA,Emera orporated Common Shares,Utilities
+EMBJ,Embraer S.A,Industrials
+EME,EMCOR Group ,Industrials
+EMR,Emerson Electric Company,Technology
+ENB,Enbridge,Energy
+ENSG,The Ensign Group ,Health Care
+ENTG,Entegris ,Industrials
+EOG,EOG Resources ,Energy
+EPAM,EPAM Systems ,Technology
+EPD,Enterprise Products Partners L.P,Utilities
+EQH,Equitable Holdings ,Finance
+EQIX,Equinix . REIT,Real Estate
+EQNR,Equinor ASA,Energy
+EQR,Equity Residential Common Shares of Beneficial Interest,Real Estate
+EQT,EQT Corporation,Energy
+EQX,Equinox Gold Corp. Common Shares,Basic Materials
+ERIC,Ericsson American Depositary Shares,Technology
+ERIE,Erie Indemnity Company Class A,Finance
+ES,Eversource Energy (D/B/A),Utilities
+ESLT,Elbit Systems Ltd. Ordinary Shares,Industrials
+ESS,Essex Property Trust ,Real Estate
+ET,Energy Transfer LP Common Units,Utilities
+ETN,Eaton Corporation PLC Ordinary Shares,Technology
+ETR,Entergy Corporation,Utilities
+EVR,Evercore . Class A,Finance
+EVRG,Evergy ,Utilities
+EW,Edwards Lifesciences Corporation,Health Care
+EWBC,East West Bancorp ,Finance
+EXAS,Exact Sciences Corporation,Health Care
+EXC,Exelon Corporation,Utilities
+EXE,Expand Energy Corporation,Energy
+EXEEL,Expand Energy Corporation Class C Warrants,Energy
+EXEEZ,Expand Energy Corporation Class B Warrants,Energy
+EXEL,Exelixis ,Health Care
+EXPD,Expeditors International of Washington ,Industrials
+EXPE,Expedia Group ,Consumer Discretionary
+EXR,Extra Space Storage,Real Estate
+F,Ford Motor Company,Industrials
+FANG,Diamondback Energy ,Energy
+FAST,Fastenal Company,Consumer Discretionary
+FCNCA,First Citizens BancShares . Class A,Finance
+FCX,Freeport-McMoRan ,Basic Materials
+FDS,FactSet Research Systems ,Technology
+FDX,FedEx Corporation,Consumer Discretionary
+FE,FirstEnergy Corp,Utilities
+FER,Ferrovial SE Ordinary Shares,Industrials
+FERG,Ferguson Enterprises ,Miscellaneous
+FFIV,F5 ,Telecommunications
+FHN,First Horizon Corporation,Finance
+FICO,Fair Isaac Corporation,Real Estate
+FIG,Figma . Class A,Technology
+FIS,Fidelity National Information Services ,Real Estate
+FISV,Fiserv ,Real Estate
+FITB,Fifth Third Bancorp,Finance
+FITBI,Fifth Third Bancorp Depositary Shares,Finance
+FITBO,Fifth Third Bancorp Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock Series K,Finance
+FITBP,Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock Series A,Finance
+FIX,Comfort Systems USA ,Industrials
+FLEX,Flex Ltd. Ordinary Shares,Technology
+FLUT,Flutter Entertainment plc Ordinary Shares,Technology
+FMS,Fresenius Medical Care AG American Depositary Shares (Each representing 1/2 of an Ordinary Share),Health Care
+FMX,Fomento Economico Mexicano S.A.B. de C.V,Consumer Staples
+FN,Fabrinet Ordinary Shares,Utilities
+FNF,Fidelity National Financial ,Finance
+FNV,Franco-Nevada Corporation,Basic Materials
+FOX,Fox Corporation Class B,Industrials
+FOXA,Fox Corporation Class A,Industrials
+FSLR,First Solar ,Technology
+FTAI,FTAI Aviation Ltd,Industrials
+FTI,TechnipFMC plc Ordinary Share,Consumer Discretionary
+FTNT,Fortinet ,Technology
+FTS,Fortis . Common Shares,Utilities
+FTV,Fortive Corporation,Industrials
+FUTU,Futu Holdings Limited American Depositary Shares,Finance
+FWONA,Liberty Media Corporation Series A Liberty Formula One,Industrials
+FWONK,Liberty Media Corporation Series C Liberty Formula One,Industrials
+GAP,Gap . (The),Consumer Discretionary
+GD,General Dynamics Corporation,Industrials
+GDDY,GoDaddy . Class A,Technology
+GE,GE Aerospace,Technology
+GEHC,GE HealthCare Technologies ,Health Care
+GEN,Gen Digital ,Technology
+GEV,GE Vernova ,
+GFI,Gold Fields Limited American Depositary Shares,Basic Materials
+GFL,GFL Environmental . Subordinate voting shares no par value,Utilities
+GFS,GlobalFoundries . Ordinary Shares,Technology
+GGG,Graco ,Industrials
+GH,Guardant Health ,Health Care
+GIB,CGI ,Consumer Discretionary
+GILD,Gilead Sciences ,Health Care
+GIS,General Mills ,Consumer Staples
+GL,Globe Life ,Finance
+GLPI,Gaming and Leisure Properties ,Real Estate
+GLW,Corning orporated,Industrials
+GLXY,Galaxy Digital . Class A,Finance
+GM,General Motors Company,Industrials
+GMAB,Genmab A/S ADS,Health Care
+GME,GameStop Corporation,Consumer Discretionary
+GMED,Globus Medical . Class A,Health Care
+GOOG,Alphabet . Class C Capital Stock,Technology
+GOOGL,Alphabet . Class A,Technology
+GPC,Genuine Parts Company,Consumer Discretionary
+GPN,Global Payments ,Real Estate
+GRAB,Grab Holdings Limited Class A Ordinary Shares,Real Estate
+GRMN,Garmin Ltd. (Switzerland),Industrials
+GS,Goldman Sachs Group . (The),Finance
+GSK,GSK plc American Depositary Shares (Each representing two Ordinary Shares),Health Care
+GWRE,Guidewire Software ,Technology
+GWW,W.W. Grainger ,Industrials
+H,Hyatt Hotels Corporation Class A,Consumer Discretionary
+HAL,Halliburton Company,Energy
+HAS,Hasbro ,Consumer Discretionary
+HBAN,Huntington Bancshares orporated,Finance
+HBANL,Huntington Bancshares orporated Depositary Shares Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock,Finance
+HBANM,Huntington Bancshares orporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock,Finance
+HBANP,Huntington Bancshares orporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock,Finance
+HCA,HCA Healthcare ,Health Care
+HD,Home Depot . (The),Consumer Discretionary
+HDB,HDFC Bank Limited,Finance
+HEI,Heico Corporation,Industrials
+HIG,The Hartford Insurance Group ,Finance
+HII,Huntington Ingalls Industries ,Industrials
+HL,Hecla Mining Company,Industrials
+HLI,Houlihan Lokey . Class A,Finance
+HLN,Haleon plc American Depositary Shares (Each representing two Ordinary Shares),Consumer Discretionary
+HLT,Hilton Worldwide Holdings ,Consumer Discretionary
+HMC,Honda Motor Company Ltd,Industrials
+HMY,Harmony Gold Mining Company Limited,Basic Materials
+HOLX,Hologic ,Health Care
+HON,Honeywell International ,Industrials
+HOOD,Robinhood Markets . Class A,Finance
+HPE,Hewlett Packard Enterprise Company,Technology
+HPQ,HP ,Technology
+HRL,Hormel Foods Corporation,Consumer Staples
+HSBC,HSBC Holdings plc,Finance
+HST,Host Hotels & Resorts ,Real Estate
+HSY,The Hershey Company,Consumer Staples
+HTHT,H World Group Limited American Depositary Shares,Consumer Discretionary
+HUBB,Hubbell,Technology
+HUBS,HubSpot ,Technology
+HUM,Humana ,Health Care
+HWM,Howmet Aerospace ,Industrials
+IBKR,Interactive Brokers Group . Class A,Finance
+IBM,International Business Machines Corporation,Technology
+IBN,ICICI Bank Limited,Finance
+ICE,Intercontinental Exchange ,Finance
+ICLR,ICON plc Ordinary Shares,Health Care
+IDXX,IDEXX Laboratories ,Health Care
+IEX,IDEX Corporation,Industrials
+IFF,International Flavors & Fragrances ,Industrials
+IHG,Intercontinental Hotels Group American Depositary Shares (Each representing one Ordinary Share),Consumer Discretionary
+ILMN,Illumina ,Health Care
+IMO,Imperial Oil Limited,Energy
+INCY,yte Corp,Health Care
+INFY,Infosys Limited American Depositary Shares,Technology
+ING,ING Group N.V,Finance
+INSM,Insmed orporated,Health Care
+INTC,Intel Corporation,Technology
+INTU,Intuit ,Technology
+INVH,Invitation Homes ,Finance
+IONQ,IonQ ,Technology
+IONS,Ionis Pharmaceuticals ,Health Care
+IOT,Samsara . Class A,Technology
+IP,International Paper Company,Basic Materials
+IQV,IQVIA Holdings ,Health Care
+IR,Ingersoll Rand ,Industrials
+IREN,IREN Limited Ordinary Shares,Technology
+IRM,Iron Mountain orporated (Delaware) REIT,Real Estate
+ISRG,Intuitive Surgical ,Health Care
+IT,Gartner ,Consumer Discretionary
+ITT,ITT ,Industrials
+ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),Finance
+ITW,Illinois Tool Works ,Industrials
+IVZ,Invesco Ltd,Finance
+IX,ORIX Corporation American Depositary Shares,Finance
+J,Jacobs Solutions ,Industrials
+JAZZ,Jazz Pharmaceuticals plc (Ireland),Health Care
+JBHT,J.B. Hunt Transport Services ,Industrials
+JBL,Jabil ,Technology
+JBS,JBS N.V. Class A Common Shares,Consumer Staples
+JCI,Johnson Controls International plc Ordinary Share,Industrials
+JD,JD.com . American Depositary Shares,Consumer Discretionary
+JEF,Jefferies Financial Group ,Finance
+JKHY,Jack Henry & Associates ,Technology
+JLL,Jones Lang LaSalle orporated,Finance
+JNJ,Johnson & Johnson,Health Care
+JOBY,Joby Aviation ,Industrials
+JPM,JP Morgan Chase & Co,Finance
+K,Kellanova,Consumer Staples
+KB,KB Financial Group,Finance
+KDP,Keurig Dr Pepper ,Consumer Staples
+KEP,Korea Electric Power Corporation,Utilities
+KEY,KeyCorp,Finance
+KEYS,Keysight Technologies ,Industrials
+KGC,Kinross Gold Corporation,Basic Materials
+KHC,The Kraft Heinz Company,Consumer Staples
+KIM,Kimco Realty Corporation (HC),Real Estate
+KKR,KKR & Co. ,Finance
+KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,Finance
+KLAC,KLA Corporation,Technology
+KLAR,Klarna Group plc Ordinary Shares,Finance
+KMB,Kimberly-Clark Corporation,Consumer Discretionary
+KMI,Kinder Morgan ,Utilities
+KO,Coca-Cola Company (The),Consumer Staples
+KOF,Coca Cola Femsa S.A.B. de C.V. American Depositary Shares each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares),Consumer Staples
+KR,Kroger Company (The),Consumer Staples
+KSPI,Joint Stock Company Kaspi.kz American Depository Shares,
+KTOS,Kratos Defense & Security Solutions ,Industrials
+KVUE,Kenvue ,Consumer Discretionary
+L,Loews Corporation,Finance
+LAMR,Lamar Advertising Company Class A,Real Estate
+LDOS,Leidos Holdings ,Technology
+LECO,Loln Electric Holdings . Common Shares,Industrials
+LEN,Lennar Corporation Class A,Consumer Discretionary
+LH,Labcorp Holdings ,Health Care
+LHX,L3Harris Technologies ,Industrials
+LI,Li Auto . American Depositary Shares,Industrials
+LII,Lennox International ,Industrials
+LIN,Linde plc Ordinary Shares,Basic Materials
+LITE,Lumentum Holdings ,Telecommunications
+LLY,Eli Lilly and Company,Health Care
+LMT,Lockheed Martin Corporation,Industrials
+LNG,Cheniere Energy ,Utilities
+LNT,Alliant Energy Corporation,Utilities
+LOGI,Logitech International S.A. Ordinary Shares,Technology
+LOW,Lowe's Companies ,Consumer Discretionary
+LPLA,LPL Financial Holdings ,Finance
+LRCX,Lam Research Corporation,Technology
+LTM,LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2000) shares of ),Consumer Discretionary
+LULU,lululemon athletica ,Consumer Discretionary
+LUV,Southwest Airlines Company,Consumer Discretionary
+LVS,Las Vegas Sands Corp,Consumer Discretionary
+LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),Industrials
+LYG,Lloyds Banking Group Plc American Depositary Shares,Finance
+LYV,Live Nation Entertainment ,Consumer Discretionary
+MA,Mastercard orporated,Real Estate
+MAA,Mid-America Apartment Communities ,Real Estate
+MANH,Manhattan Associates ,Technology
+MAR,Marriott International Class A,Consumer Discretionary
+MAS,Masco Corporation,Industrials
+MCD,McDonald's Corporation,Consumer Discretionary
+MCHP,Microchip Technology orporated,Technology
+MCHPP,Microchip Technology orporated Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock,Technology
+MCK,McKesson Corporation,Health Care
+MCO,Moody's Corporation,Finance
+MDB,MongoDB . Class A,Technology
+MDGL,Madrigal Pharmaceuticals ,Health Care
+MDLZ,Mondelez International . Class A,Consumer Staples
+MDT,Medtronic plc. Ordinary Shares,Health Care
+MEDP,Medpace Holdings ,Health Care
+MELI,MercadoLibre ,Real Estate
+MET,MetLife ,Finance
+META,Meta Platforms . Class A,Technology
+MFC,Manulife Financial Corporation,Finance
+MFG,Mizuho Financial Group . Sponosred ADR (Japan),Finance
+MGA,Magna International ,Consumer Discretionary
+MKC,McCormick & Company orporated,Consumer Staples
+MKL,Markel Group ,Finance
+MKSI,MKS ,Industrials
+MLI,Mueller Industries ,Industrials
+MLM,Martin Marietta Materials ,Industrials
+MMC,Marsh & McLennan Companies ,Finance
+MMM,3M Company,Health Care
+MNST,Monster Beverage Corporation,Consumer Staples
+MO,Altria Group ,Health Care
+MP,MP Materials Corp,Basic Materials
+MPC,Marathon Petroleum Corporation,Energy
+MPLX,MPLX LP Common Units Representing Limited Partner Interests,Energy
+MPWR,Monolithic Power Systems ,Technology
+MRK,Merck & Company . (new),Health Care
+MRVL,Marvell Technology ,Technology
+MS,Morgan Stanley,Finance
+MSCI,MSCI ,Real Estate
+MSFT,Microsoft Corporation,Technology
+MSI,Motorola Solutions ,Technology
+MSTR,Strategy Class A,Technology
+MT,Arcelor Mittal NY Registry Shares NEW,Industrials
+MTB,M&T Bank Corporation,Finance
+MTD,Mettler-Toledo International ,Industrials
+MTSI,MACOM Technology Solutions Holdings ,Technology
+MTZ,MasTec ,Industrials
+MU,Micron Technology ,Technology
+MUFG,Mitsubishi UFJ Financial Group ,Finance
+NBIS,Nebius Group N.V. Class A Ordinary Shares,Technology
+NBIX,Neurocrine Biosciences ,Health Care
+NDAQ,Nasdaq ,Finance
+NDSN,Nordson Corporation,Industrials
+NEE,NextEra Energy ,Technology
+NEM,Newmont Corporation,Basic Materials
+NET,Cloudflare . Class A,Technology
+NFLX,Netflix ,Consumer Discretionary
+NGG,National Grid Transco PLC National Grid PLC (NEW) American Depositary Shares,Utilities
+NI,NiSource,Utilities
+NIO,NIO . American depositary shares each representing one Class A ordinary share,Industrials
+NKE,Nike ,Consumer Discretionary
+NLY,Annaly Capital Management ,Real Estate
+NMR,Nomura Holdings ADR American Depositary Shares,Finance
+NOC,Northrop Grumman Corporation,Industrials
+NOK,Nokia Corporation Sponsored American Depositary Shares,Technology
+NOW,ServiceNow ,Technology
+NRG,NRG Energy ,Utilities
+NSC,Norfolk Southern Corporation,Industrials
+NTAP,NetApp ,Technology
+NTES,NetEase . American Depositary Shares,Technology
+NTNX,Nutanix . Class A,Technology
+NTR,Nutrien Ltd. Common Shares,Industrials
+NTRA,Natera ,Health Care
+NTRS,Northern Trust Corporation,Finance
+NU,Nu Holdings Ltd. Class A Ordinary Shares,Finance
+NUE,Nucor Corporation,Industrials
+NVAWW,Nova Minerals Limited Warrant,Basic Materials
+NVDA,NVIDIA Corporation,Technology
+NVO,Novo Nordisk A/S,Health Care
+NVR,NVR ,Consumer Discretionary
+NVS,Novartis AG,Health Care
+NVT,nVent Electric plc Ordinary Shares,Industrials
+NWG,NatWest Group plc American Depositary Shares (each representing two (2) Ordinary Shares),Finance
+NWS,News Corporation Class B,Consumer Discretionary
+NWSA,News Corporation Class A,Consumer Discretionary
+NXPI,NXP Semiconductors N.V,Technology
+NXT,Nextpower . Class A,Industrials
+NYT,New York Times Company (The),Consumer Discretionary
+O,Realty ome Corporation,Real Estate
+ODFL,Old Dominion Freight Line ,Industrials
+OHI,Omega Healthcare Investors ,Real Estate
+OKE,ONEOK ,Utilities
+OKLO,Oklo . Class A,Utilities
+OKTA,Okta . Class A,Technology
+OMC,Omnicom Group ,Consumer Discretionary
+ON,ON Semiconductor Corporation,Technology
+ONC,BeOne Medicines Ltd. American Depositary Shares,Health Care
+ONON,On Holding AG Class A Ordinary Shares,Consumer Discretionary
+ORCL,Oracle Corporation,Technology
+ORI,Old Republic International Corporation,Finance
+ORLY,O'Reilly Automotive ,Consumer Discretionary
+OTIS,Otis Worldwide Corporation,Technology
+OVV,Ovintiv . (DE),Energy
+OWL,Blue Owl Capital . Class A,Finance
+OXY,Occidental Petroleum Corporation,Energy
+PAA,Plains All American Pipeline L.P. Common Units representing Limited Partner Interests,Energy
+PAAS,Pan American Silver Corp,Basic Materials
+PAC,Grupo Aeroportuario Del Pacifico S.A. B. de C.V. Grupo Aeroportuario Del Pacifico S.A. de C.V. (each representing 10 Series B shares),Consumer Discretionary
+PAG,Penske Automotive Group ,Consumer Discretionary
+PANW,Palo Alto Networks ,Technology
+PAYX,Paychex ,Industrials
+PBA,Pembina Pipeline Corp. Ordinary Shares (Canada),Energy
+PBR,Petroleo Brasileiro S.A. Petrobras ADS,Energy
+PCAR,PACCAR ,Consumer Discretionary
+PCG,Pacific Gas & Electric Co,Utilities
+PCOR,Procore Technologies ,Technology
+PDD,PDD Holdings . American Depositary Shares,Technology
+PEG,Public Service Enterprise Group orporated,Utilities
+PEN,Penumbra ,Health Care
+PEP,PepsiCo ,Consumer Staples
+PFE,Pfizer ,Health Care
+PFG,Pripal Financial Group,Finance
+PFGC,Performance Food Group Company,Consumer Discretionary
+PG,Procter & Gamble Company (The),Consumer Discretionary
+PGR,Progressive Corporation (The),Finance
+PH,Parker-Hannifin Corporation,Industrials
+PHG,Koninklijke Philips N.V. NY Registry Shares,Health Care
+PHM,PulteGroup ,Consumer Discretionary
+PINS,Pinterest . Class A,Technology
+PKG,Packaging Corporation of America,Consumer Discretionary
+PKX,POSCO HOLDINGS . American Depositary Shares (Each representing 1/4th of a share of ),Industrials
+PLD,Prologis ,Real Estate
+PLTR,Palantir Technologies . Class A,Technology
+PM,Philip Morris International,Health Care
+PNC,PNC Financial Services Group . (The),Finance
+PNR,Pentair plc. Ordinary Share,Industrials
+PNW,Pinnacle West Capital Corporation,Utilities
+PODD,Insulet Corporation,Health Care
+PPG,PPG Industries ,Consumer Discretionary
+PPL,PPL Corporation,Utilities
+PR,Permian Resources Corporation Class A,Energy
+PRU,Prudential Financial ,Finance
+PSA,Public Storage,Real Estate
+PSKY,Paramount Skydance Corporation Class B,Industrials
+PSTG,Pure Storage . Class A,Technology
+PSX,Phillips 66,Energy
+PTC,PTC ,Technology
+PUK,Prudential Public Limited Company,Finance
+PWR,Quanta Services ,Industrials
+PYPL,PayPal Holdings ,Industrials
+Q,Qnity Electronics ,Technology
+QCOM,QUALCOMM orporated,Technology
+QGEN,Qiagen N.V. Common Shares,Health Care
+QSR,Restaurant Brands International . Common Shares,Consumer Discretionary
+QXO,QXO ,Consumer Discretionary
+RACE,Ferrari N.V. Common Shares,Industrials
+RBA,RB Global ,Real Estate
+RBC,RBC Bearings orporated,Industrials
+RBLX,Roblox Corporation Class A,Technology
+RBRK,Rubrik . Class A,Technology
+RCI,Rogers Communication ,Telecommunications
+RCL,Royal Caribbean Cruises Ltd,Consumer Discretionary
+RDDT,Reddit . Class A,Technology
+RDY,Dr. Reddy's Laboratories Ltd,Health Care
+REG,Regency Centers Corporation,Real Estate
+REGN,Regeneron Pharmaceuticals ,Health Care
+RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),Real Estate
+RF,Regions Financial Corporation,Finance
+RGA,Reinsurance Group of America orporated,Finance
+RGLD,Royal Gold ,Industrials
+RIO,Rio Tinto Plc,Basic Materials
+RIVN,Rivian Automotive . Class A,Industrials
+RJF,Raymond James Financial ,Finance
+RKLB,Rocket Lab Corporation,Industrials
+RKT,Rocket Companies . Class A,Finance
+RL,Ralph Lauren Corporation,Industrials
+RMBS,Rambus ,Technology
+RMD,ResMed ,Health Care
+RNA,Avidity Biosciences ,Health Care
+RNR,RenaissanceRe Holdings Ltd,Finance
+ROIV,Roivant Sciences Ltd. Common Shares,Health Care
+ROK,Rockwell Automation ,Industrials
+ROKU,Roku . Class A,Telecommunications
+ROL,Rollins ,Consumer Discretionary
+ROP,Roper Technologies ,Technology
+ROST,Ross Stores ,Consumer Discretionary
+RPM,RPM International ,Consumer Discretionary
+RPRX,Royalty Pharma plc Class A Ordinary Shares,Health Care
+RS,Reliance ,Industrials
+RSG,Republic Services ,Utilities
+RTX,RTX Corporation,Industrials
+RVMD,Revolution Medicines ,Health Care
+RVTY,Revvity ,Industrials
+RY,Royal Bank Of Canada,Finance
+RYAAY,Ryanair Holdings plc American Depositary Shares,Consumer Discretionary
+RYAN,Ryan Specialty Holdings . Class A,Finance
+SAIL,SailPoint ,Technology
+SAN,Banco Santander S.A. Sponsored ADR (Spain),Finance
+SAP,SAP SE ADS,Technology
+SATA,Strive . Variable Rate Series A Perpetual Preferred Stock,
+SATS,EchoStar Corporation,Consumer Discretionary
+SBAC,SBA Communications Corporation Class A,Real Estate
+SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares),Utilities
+SBUX,Starbucks Corporation,Consumer Discretionary
+SCCO,Southern Copper Corporation,Basic Materials
+SCHW,Charles Schwab Corporation (The),Finance
+SCI,Service Corporation International,Consumer Discretionary
+SE,Sea Limited American Depositary Shares each representing one Class A Ordinary Share,Consumer Discretionary
+SF,Stifel Financial Corporation,Finance
+SGI,Somnigroup International ,Consumer Discretionary
+SHEL,Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares),Energy
+SHG,Shinhan Financial Group Co Ltd American Depositary Shares,Finance
+SHOP,Shopify . Class A Subordinate Voting Shares,Technology
+SHW,Sherwin-Williams Company (The),Consumer Discretionary
+SJM,The J.M. Smucker Company,Consumer Staples
+SLB,SLB Limited Common Shares,Energy
+SLF,Sun Life Financial ,Finance
+SLMBP,SLM Corporation Floating Rate Non-Cumulative Preferred Stock Series B,Finance
+SMCI,Super Micro Computer ,Technology
+SMFG,Sumitomo Mitsui Financial Group Unsponsored American Depositary Shares (Japan),Finance
+SMMT,Summit Therapeutics ,Health Care
+SN,SharkNinja . Ordinary Shares,Consumer Discretionary
+SNA,Snap-On orporated,Consumer Discretionary
+SNAP,Snap . Class A,Technology
+SNDK,Sandisk Corporation,Technology
+SNN,Smith & Nephew SNATS ,Health Care
+SNOW,Snowflake ,Technology
+SNPS,Synopsys ,Technology
+SNX,TD SYNNEX Corporation,Technology
+SNY,Sanofi ADS,Health Care
+SO,Southern Company (The),Utilities
+SOFI,SoFi Technologies ,Finance
+SOJC,Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1 2077,Utilities
+SOJD,Southern Company (The) Series 2020A 4.95% Junior Subordinated Notes due January 30 2080,Utilities
+SOJE,Southern Company (The) Series 2020C 4.20% Junior Subordinated Notes due October 15 2060,Basic Materials
+SOLV,Solventum Corporation,Health Care
+SOMN,Southern Company (The) 2025 Series A Corporate Units,Basic Materials
+SONY,Sony Group Corporation American Depositary Shares,Consumer Staples
+SPG,Simon Property Group ,Real Estate
+SPGI,S&P Global ,Finance
+SPOT,Spotify Technology S.A. Ordinary Shares,Consumer Discretionary
+SPXC,SPX Technologies ,Industrials
+SQM,Sociedad Quimica y Minera S.A,Industrials
+SRE,DBA Sempra,Utilities
+SREA,DBA Sempra 5.750% Junior Subordinated Notes due 2079,Utilities
+SSNC,SS&C Technologies Holdings ,Technology
+STE,STERIS plc (Ireland) Ordinary Shares,Health Care
+STLA,Stellantis N.V. Common Shares,Industrials
+STLD,Steel Dynamics ,Industrials
+STM,STMicroelectronics N.V,Technology
+STN,Stantec,Consumer Discretionary
+STRC,Strategy Variable Rate Series A Perpetual Stretch Preferred Stock,Technology
+STRD,Strategy 10.00% Series A Perpetual Stride Preferred Stock,Technology
+STRF,Strategy 10.00% Series A Perpetual Strife Preferred Stock,Technology
+STRK,Strategy 8.00% Series A Perpetual Strike Preferred Stock,Technology
+STRL,Sterling Infrastructure ,Industrials
+STT,State Street Corporation,Finance
+STX,Seagate Technology Holdings PLC Ordinary Shares (Ireland),Technology
+STZ,Constellation Brands ,Consumer Staples
+SU,Suncor Energy ,Energy
+SUI,Sun Communities ,Real Estate
+SUNC,SunocoCorp LLC Common Units representing limited liability company interests,
+SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),Basic Materials
+SW,Smurfit WestRock plc Ordinary Shares,Consumer Discretionary
+SWK,Stanley Black & Decker ,Consumer Discretionary
+SYF,Synchrony Financial,Finance
+SYK,Stryker Corporation,Health Care
+SYM,Symbotic . Class A,Industrials
+SYY,Sysco Corporation,Consumer Discretionary
+T,AT&T ,Telecommunications
+TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of ),Health Care
+TBB,AT&T . 5.350% Global Notes due 2066,Telecommunications
+TCOM,Trip.com Group Limited American Depositary Shares,Real Estate
+TD,Toronto Dominion Bank (The),Finance
+TDG,Transdigm Group orporated,Industrials
+TDY,Teledyne Technologies orporated,Industrials
+TEAM,Atlassian Corporation Class A,Technology
+TECH,Bio-Techne Corp,Health Care
+TECK,Teck Resources Ltd Ordinary Shares,Industrials
+TEF,Telefonica SA,Telecommunications
+TEL,TE Connectivity plc Ordinary Shares,Technology
+TEM,Tempus AI . Class A,Technology
+TER,Teradyne ,Industrials
+TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,Health Care
+TFC,Truist Financial Corporation,Finance
+TGT,Target Corporation,Consumer Discretionary
+THC,Tenet Healthcare Corporation,Health Care
+TIMB,TIM S.A. American Depositary Shares (Each representing 5 Common Shares),Telecommunications
+TJX,TJX Companies . (The),Consumer Discretionary
+TKO,TKO Group Holdings . Class A,Consumer Discretionary
+TLK,PT Telekomunikasi Indonesia Tbk,Telecommunications
+TLN,Talen Energy Corporation,Utilities
+TM,Toyota Motor Corporation,Industrials
+TME,Tencent Music Entertainment Group American Depositary Shares each representing two Class A Ordinary Shares,Consumer Discretionary
+TMO,Thermo Fisher Scientific,Industrials
+TMUS,T-Mobile US ,Telecommunications
+TOL,Toll Brothers ,Consumer Discretionary
+TOST,Toast . Class A,Technology
+TPG,TPG . Class A,Finance
+TPL,Texas Pacific Land Corporation,Energy
+TPR,Tapestry ,Consumer Discretionary
+TRGP,Targa Resources ,Utilities
+TRI,Thomson Reuters Corporation Common Shares,Consumer Discretionary
+TRMB,Trimble ,Industrials
+TROW,T. Rowe Price Group ,Finance
+TRP,TC Energy Corporation,Utilities
+TRU,TransUnion,Finance
+TRV,The Travelers Companies ,Finance
+TS,Tenaris S.A. American Depositary Shares,Industrials
+TSCO,Tractor Supply Company,Consumer Discretionary
+TSEM,Tower Semiconductor Ltd. Ordinary Shares,Technology
+TSLA,Tesla ,Industrials
+TSM,Taiwan Semiconductor Manufacturing Company Ltd,Technology
+TSN,Tyson Foods ,Consumer Staples
+TT,Trane Technologies plc,Industrials
+TTD,The Trade Desk . Class A,Technology
+TTE,TotalEnergies SE,Energy
+TTWO,Take-Two Interactive Software ,Consumer Discretionary
+TU,Telus Corporation Ordinary Shares,Telecommunications
+TW,Tradeweb Markets . Class A,Finance
+TWLO,Twilio . Class A,Technology
+TXN,Texas Instruments orporated,Technology
+TXRH,Texas Roadhouse ,Consumer Discretionary
+TXT,Textron ,Industrials
+TYL,Tyler Technologies ,Technology
+U,Unity Software ,Technology
+UAL,United Airlines Holdings ,Consumer Discretionary
+UBER,Uber Technologies ,Real Estate
+UBS,UBS Group AG Registered Ordinary Shares,Finance
+UDR,UDR ,Real Estate
+UHAL,U-Haul Holding Company,Consumer Discretionary
+UHS,Universal Health Services ,Health Care
+UI,Ubiquiti ,Technology
+UL,Unilever PLC,Consumer Discretionary
+ULS,UL Solutions . Class A,Health Care
+ULTA,Ulta Beauty ,Consumer Discretionary
+UMC,United Microelectronics Corporation (NEW),Technology
+UNH,UnitedHealth Group orporated (DE),Health Care
+UNM,Unum Group,Finance
+UNP,Union Pacific Corporation,Industrials
+UPS,United Parcel Service ,Industrials
+URI,United Rentals ,Consumer Discretionary
+USB,U.S. Bancorp,Finance
+USFD,US Foods Holding Corp,Consumer Discretionary
+UTHR,United Therapeutics Corporation,Health Care
+V,Visa ,Real Estate
+VALE,VALE S.A. American Depositary Shares Each Representing one common share,Basic Materials
+VEEV,Veeva Systems . Class A,Technology
+VG,Venture Global . Class A,Utilities
+VICI,VICI Properties ,Real Estate
+VIK,Viking Holdings Ltd Ordinary Shares,Consumer Discretionary
+VIPS,Vipshop Holdings Limited American Depositary Shares each representing two ordinary shares,Consumer Discretionary
+VIV,Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share),Telecommunications
+VLO,Valero Energy Corporation,Energy
+VLTO,Veralto Corp,Industrials
+VLYPN,Valley National Bancorp 8.250% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series C,Finance
+VLYPO,Valley National Bancorp 5.50% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock Series B,Finance
+VLYPP,Valley National Bancorp 6.25% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock Series A,Finance
+VMC,Vulcan Materials Company (Holding Company),Industrials
+VNOM,Viper Energy . Class A,Energy
+VOD,Vodafone Group Plc American Depositary Shares,Telecommunications
+VRSK,Verisk Analytics ,Industrials
+VRSN,VeriSign ,Technology
+VRT,Vertiv Holdings LLC Class A,Technology
+VRTX,Vertex Pharmaceuticals orporated,Health Care
+VST,Vistra Corp,Utilities
+VTR,Ventas ,Real Estate
+VTRS,Viatris ,Health Care
+VZ,Verizon Communications ,Telecommunications
+W,Wayfair . Class A,Consumer Discretionary
+WAB,Westinghouse Air Brake Technologies Corporation,Industrials
+WAT,Waters Corporation,Industrials
+WBD,Warner Bros. Discovery . Series A,Consumer Discretionary
+WCC,WESCO International ,Consumer Discretionary
+WCN,Waste Connections . Common Shares,Utilities
+WDAY,Workday . Class A,Technology
+WDC,Western Digital Corporation,Technology
+WDS,Woodside Energy Group Limited American Depositary Shares each representing one Ordinary Share,Energy
+WEC,WEC Energy Group ,Utilities
+WELL,Welltower ,Real Estate
+WES,Western Midstream Partners LP Common Units Representing Limited Partner Interests,Utilities
+WF,Woori Financial Group . American Depositary Shares (each representing three (3) shares of ),Finance
+WFC,Wells Fargo & Company,Finance
+WIT,Wipro Limited,Technology
+WM,Waste Management ,Utilities
+WMB,Williams Companies . (The),Utilities
+WMG,Warner Music Group Corp. Class A,Consumer Discretionary
+WMS,Advanced Drainage Systems ,Consumer Discretionary
+WMT,Walmart ,Consumer Discretionary
+WPC,W. P. Carey . REIT,Real Estate
+WPM,Wheaton Precious Metals Corp Common Shares (Canada),Basic Materials
+WRB,W.R. Berkley Corporation,Finance
+WSM,Williams-Sonoma . (DE),Consumer Discretionary
+WSO,Watsco ,Consumer Discretionary
+WST,West Pharmaceutical Services ,Health Care
+WTRG,Essential Utilities ,Utilities
+WTW,Willis Towers Watson Public Limited Company Ordinary Shares,Finance
+WWD,Woodward ,Energy
+WY,Weyerhaeuser Company,Real Estate
+WYNN,Wynn Resorts Limited,Consumer Discretionary
+XEL,Xcel Energy ,Utilities
+XOM,Exxon Mobil Corporation,Energy
+XP,XP . Class A,Finance
+XPEV,XPeng . American depositary shares each representing two Class A ordinary shares,Industrials
+XPO,XPO ,Consumer Discretionary
+XYL,Xylem . New,Industrials
+XYZ,Block . Class A,Technology
+YMM,Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares),Technology
+YPF,YPF Sociedad Anonima,Energy
+YUM,Yum! Brands ,Consumer Discretionary
+YUMC,Yum China Holdings ,Consumer Discretionary
+Z,Zillow Group . Class C Capital Stock,Real Estate
+ZBH,Zimmer Biomet Holdings ,Health Care
+ZBRA,Zebra Technologies Corporation Class A,Industrials
+ZG,Zillow Group . Class A,Real Estate
+ZM,Zoom Communications . Class A,Technology
+ZS,Zscaler ,Technology
+ZTO,ZTO Express (Cayman) . American Depositary Shares each representing one Class A ordinary share,Industrials
+ZTS,Zoetis . Class A,Health Care

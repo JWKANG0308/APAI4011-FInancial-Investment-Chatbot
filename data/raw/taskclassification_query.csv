@@ -1,0 +1,588 @@
+query,label
+NVDA information,ticker_information
+which sector has opportunity,sector_recommendation
+GOOGL details,ticker_information
+nvidia news,news_sentiment
+sector investment advice,sector_recommendation
+meta stock prediction tomorrow,prediction
+TSLA sentiment analysis,news_sentiment
+AMZN trading at,price_query
+WMT information,ticker_information
+uber stock price,price_query
+what is walmart,ticker_information
+lyft tomorrow prediction,prediction
+compare apple and microsoft,comparison
+best sector to invest,sector_recommendation
+BA vs EADSY,comparison
+intel price today,price_query
+what's the best sector,sector_recommendation
+nvidia sentiment info,news_sentiment
+MSFT information,ticker_information
+NVDA stock value,price_query
+best sector for value,sector_recommendation
+which sector to choose,sector_recommendation
+forecast tesla tomorrow,prediction
+walmart company info,ticker_information
+best sector for investment,sector_recommendation
+predict pepsi stock for tomorrow,prediction
+can you predict nvidia tomorrow,prediction
+data on google,ticker_information
+best sector for disruption,sector_recommendation
+PEP tomorrow's forecast,prediction
+boeing airbus comparison,comparison
+which sector is best,sector_recommendation
+info about amazon,ticker_information
+best sector for growth,sector_recommendation
+INTC tomorrow's forecast,prediction
+amazon sentiment analysis,news_sentiment
+which sector is cheap,sector_recommendation
+walmart stock value,price_query
+boeing against lockheed,comparison
+show tesla details,ticker_information
+recommend top sector,sector_recommendation
+which sector should i choose,sector_recommendation
+AAPL price check,price_query
+forecast nvidia stock tomorrow,prediction
+compare microsoft and oracle,comparison
+NVDA details,ticker_information
+tomorrow's forecast for google,prediction
+meta or snap for growth,comparison
+google news sentiment,news_sentiment
+best sector for bulls,sector_recommendation
+square price,price_query
+give me apple info,ticker_information
+spotify tomorrow,prediction
+coca cola against pepsi,comparison
+which sector should i buy,sector_recommendation
+boeing or airbus,comparison
+how much is tesla stock,price_query
+microsoft stock tomorrow forecast,prediction
+amazon sentiment today,news_sentiment
+apple sentiment today,news_sentiment
+MSFT stock forecast tomorrow,prediction
+what is meta,ticker_information
+intel business sector,ticker_information
+what will amd stock be tomorrow,prediction
+square prediction tomorrow,prediction
+meta price check,price_query
+nvidia sentiment today,news_sentiment
+walmart or target,comparison
+microsoft company profile,ticker_information
+SNAP tomorrow prediction,prediction
+meta or snap,comparison
+recommend sector for me,sector_recommendation
+nvidia stock info,ticker_information
+NFLX prediction tomorrow,prediction
+apple news analysis,news_sentiment
+describe tesla company,ticker_information
+tomorrow disney forecast,prediction
+AMZN forecast for tomorrow,prediction
+top sector today,sector_recommendation
+best sector for appreciation,sector_recommendation
+best sector today,sector_recommendation
+what will NVDA be worth tomorrow,prediction
+meta company overview,ticker_information
+WMT stock prediction tomorrow,prediction
+amazon news score,news_sentiment
+bank of america vs wells fargo,comparison
+NVDA tomorrow stock prediction,prediction
+nvidia against amd,comparison
+NVDA stock price,price_query
+which sector has momentum,sector_recommendation
+price of apple stock,price_query
+describe netflix company,ticker_information
+compare google and amazon,comparison
+sector suggestion please,sector_recommendation
+what's MSFT trading at,price_query
+recommend sector for investment,sector_recommendation
+intel stock worth,price_query
+LYFT stock price,price_query
+walmart target comparison,comparison
+AMZN prediction for tomorrow,prediction
+show tesla price,price_query
+netflix news sentiment,news_sentiment
+nvidia vs intel comparison,comparison
+best tech sector,sector_recommendation
+amazon business description,ticker_information
+nvidia company profile,ticker_information
+what do you think apple will be tomorrow,prediction
+tesla stock worth,price_query
+recommend investment sector,sector_recommendation
+describe amazon company,ticker_information
+nvidia sentiment,news_sentiment
+which is better apple or google,comparison
+WMT stock price now,price_query
+WMT details,ticker_information
+nvidia current price,price_query
+amazon news sentiment,news_sentiment
+WMT vs TGT,comparison
+netflix news today,news_sentiment
+oracle current price,price_query
+meta stock price today,price_query
+GOOGL tomorrow prediction,prediction
+amazon vs alibaba,comparison
+recommend profitable sector,sector_recommendation
+compare coca cola and pepsi,comparison
+NFLX worth,price_query
+intel price info,price_query
+ORCL stock price,price_query
+netflix sentiment,news_sentiment
+TSLA tomorrow's prediction,prediction
+intel tomorrow stock,prediction
+which sector is disruptive,sector_recommendation
+snap stock tomorrow,prediction
+what will happen to tesla stock tomorrow,prediction
+NVDA vs AMD,comparison
+sector investment suggestion,sector_recommendation
+amazon stock forecast for tomorrow,prediction
+UBER versus LYFT,comparison
+walmart price,price_query
+amazon sentiment info,news_sentiment
+TSLA information,ticker_information
+IBM tomorrow forecast,prediction
+predict apple stock for tomorrow,prediction
+details about tesla,ticker_information
+recommend healthcare sector,sector_recommendation
+what's apple sentiment,news_sentiment
+meta news score,news_sentiment
+amazon news,news_sentiment
+which sector has potential,sector_recommendation
+what will disney stock be tomorrow,prediction
+should i buy tesla or nvidia,comparison
+what is INTC worth,price_query
+nvidia tomorrow price,prediction
+best sector for portfolio,sector_recommendation
+META information,ticker_information
+what's the prediction for intel tomorrow,prediction
+nvidia price info,price_query
+NFLX sentiment,news_sentiment
+SPOT current price,price_query
+which sector is bullish,sector_recommendation
+best sector for stability,sector_recommendation
+META details,ticker_information
+microsoft sentiment analysis,news_sentiment
+meta sentiment,news_sentiment
+NVDA against AMD,comparison
+google or amazon better,comparison
+latest apple sentiment,news_sentiment
+amazon tomorrow prediction please,prediction
+tell me about meta,ticker_information
+what will spotify be tomorrow,prediction
+walmart prediction for tomorrow,prediction
+what is intel,ticker_information
+what is AMZN stock worth,price_query
+walmart sentiment today,news_sentiment
+facts on netflix,ticker_information
+boeing or airbus better,comparison
+compare boeing and airbus,comparison
+AMZN sentiment,news_sentiment
+show microsoft sentiment,news_sentiment
+what's the sentiment for tesla,news_sentiment
+meta sentiment analysis,news_sentiment
+best sector for long term,sector_recommendation
+describe nvidia company,ticker_information
+uber forecast tomorrow,prediction
+walmart vs costco,comparison
+tell me about netflix,ticker_information
+which sector is resilient,sector_recommendation
+walmart price info,price_query
+get tesla price,price_query
+top sector recommendation today,sector_recommendation
+microsoft stock price please,price_query
+KO current price,price_query
+walmart company category,ticker_information
+uber versus lyft,comparison
+INTC trading price,price_query
+uber or lyft,comparison
+compare netflix and disney,comparison
+netflix vs spotify,comparison
+which sector to focus on,sector_recommendation
+best sector currently,sector_recommendation
+intel vs amd which is better,comparison
+intel news score,news_sentiment
+describe intel company,ticker_information
+meta vs tiktok,comparison
+NFLX current price,price_query
+which sector is good,sector_recommendation
+zoom current price,price_query
+google news today,news_sentiment
+what will GOOGL stock be tomorrow,prediction
+what is google stock,ticker_information
+INTC tomorrow prediction,prediction
+nvidia trading at,price_query
+microsoft vs google cloud,comparison
+forecast meta for tomorrow,prediction
+describe facebook,ticker_information
+microsoft company info,ticker_information
+information on meta,ticker_information
+google business,ticker_information
+MSFT sentiment,news_sentiment
+SQ forecast for tomorrow,prediction
+what is microsoft,ticker_information
+BA stock forecast tomorrow,prediction
+INTC information,ticker_information
+recommend sector please,sector_recommendation
+tell me about nvidia,ticker_information
+netflix or disney,comparison
+what will lyft be tomorrow,prediction
+google or amazon,comparison
+apple microsoft comparison,comparison
+uber vs lyft which one,comparison
+best sector for protection,sector_recommendation
+info on INTC,ticker_information
+display google sentiment,news_sentiment
+netflix current value,price_query
+PEP stock price,price_query
+intel stock details,ticker_information
+intel news sentiment,news_sentiment
+nvidia amd comparison,comparison
+netflix trading price,price_query
+AMD prediction tomorrow,prediction
+netflix price,price_query
+DIS prediction tomorrow,prediction
+meta stock value,price_query
+TSLA vs F,comparison
+WMT against TGT,comparison
+predict tomorrow's netflix stock,prediction
+intel news,news_sentiment
+sector investment recommendation,sector_recommendation
+uber or lyft better,comparison
+predict boeing tomorrow,prediction
+NFLX forecast for tomorrow,prediction
+which tech sector,sector_recommendation
+oracle tomorrow forecast,prediction
+news about apple,news_sentiment
+walmart company overview,ticker_information
+nvidia sentiment score,news_sentiment
+top sector recommendation,sector_recommendation
+tesla business model,ticker_information
+display google price,price_query
+META sentiment,news_sentiment
+info on AMZN,ticker_information
+best sector for diversification,sector_recommendation
+predict tomorrow apple,prediction
+GOOGL price today,price_query
+meta news analysis,news_sentiment
+google sentiment,news_sentiment
+google news sentiment,news_sentiment
+predict MSFT stock tomorrow,prediction
+ZM stock forecast tomorrow,prediction
+AAPL details,ticker_information
+walmart sentiment info,news_sentiment
+get tesla sentiment,news_sentiment
+predict netflix tomorrow,prediction
+predict square tomorrow,prediction
+netflix company type,ticker_information
+tell me about microsoft,ticker_information
+give me prediction of TSLA for tomorrow,prediction
+compare apple to tesla,comparison
+amazon sentiment score,news_sentiment
+tesla sentiment,news_sentiment
+sector advice,sector_recommendation
+what will coca cola be tomorrow,prediction
+which sector is rising,sector_recommendation
+give me apple tomorrow forecast,prediction
+best sector for me,sector_recommendation
+CRM forecast for tomorrow,prediction
+how much is apple,price_query
+recommend sector now,sector_recommendation
+microsoft operations,ticker_information
+intel current value,price_query
+KO compared to PEP,comparison
+microsoft news score,news_sentiment
+netflix price info,price_query
+which stock google or amazon,comparison
+meta business description,ticker_information
+describe apple company,ticker_information
+salesforce prediction for tomorrow,prediction
+netflix news sentiment,news_sentiment
+tesla stock price today,price_query
+info on WMT,ticker_information
+tell me about tesla,ticker_information
+meta price info,price_query
+nvidia price today,price_query
+microsoft news analysis,news_sentiment
+microsoft sentiment,news_sentiment
+netflix disney comparison,comparison
+walmart sentiment analysis,news_sentiment
+show me microsoft price,price_query
+AMZN information,ticker_information
+predict AAPL for tomorrow,prediction
+META vs SNAP,comparison
+nvidia company overview,ticker_information
+disney current price,price_query
+intel sentiment info,news_sentiment
+AAPL vs MSFT,comparison
+tesla ford comparison,comparison
+which industry to invest,sector_recommendation
+sentiment for apple,news_sentiment
+latest netflix sentiment,news_sentiment
+meta sentiment score,news_sentiment
+fresh amazon sentiment,news_sentiment
+MSFT details,ticker_information
+walmart news sentiment,news_sentiment
+predict salesforce tomorrow,prediction
+lyft price,price_query
+best sector for returns,sector_recommendation
+GOOGL sentiment score,news_sentiment
+tesla news analysis,news_sentiment
+walmart stock prediction tomorrow,prediction
+meta stock price,price_query
+netflix against disney,comparison
+describe microsoft,ticker_information
+best sector for money,sector_recommendation
+netflix information,ticker_information
+AAPL news sentiment,news_sentiment
+what's google worth now,price_query
+which sector should i add,sector_recommendation
+amazon company information,ticker_information
+what will snap be tomorrow,prediction
+KO vs PEP,comparison
+NVDA sentiment analysis,news_sentiment
+which sector should i invest in,sector_recommendation
+tell me about intel,ticker_information
+SQ stock price,price_query
+what is nvidia,ticker_information
+tell me apple stock price,price_query
+nvidia or amd,comparison
+walmart news analysis,news_sentiment
+walmart versus target,comparison
+coca cola stock price,price_query
+is tesla better than ford,comparison
+microsoft tomorrow,prediction
+spotify stock price,price_query
+sector to choose,sector_recommendation
+intel sentiment,news_sentiment
+google forecast tomorrow,prediction
+intel sentiment score,news_sentiment
+recommend undervalued sector,sector_recommendation
+which healthcare sector,sector_recommendation
+information about apple,ticker_information
+what is BA trading at,price_query
+META price now,price_query
+top performing sector,sector_recommendation
+netflix sentiment today,news_sentiment
+sector recommendation for me,sector_recommendation
+compare nvidia and amd,comparison
+nvidia or amd better,comparison
+walmart or target better,comparison
+apple or microsoft,comparison
+AMZN details,ticker_information
+NFLX vs DIS,comparison
+pepsi price,price_query
+tesla or ford,comparison
+which sector should i pick,sector_recommendation
+meta news sentiment,news_sentiment
+what's google stock tomorrow,prediction
+which sector looks good,sector_recommendation
+ibm stock price,price_query
+NFLX information,ticker_information
+nvidia news score,news_sentiment
+compare jpmorgan and goldman,comparison
+what is tesla,ticker_information
+netflix news score,news_sentiment
+meta snap comparison,comparison
+current microsoft sentiment,news_sentiment
+recommend financial sector,sector_recommendation
+BA or EADSY better,comparison
+google compared to facebook,comparison
+info on META,ticker_information
+what is META trading at,price_query
+MSFT stock worth,price_query
+coca cola vs monster,comparison
+microsoft versus amazon,comparison
+apple vs samsung comparison,comparison
+netflix sentiment info,news_sentiment
+walmart news sentiment,news_sentiment
+amazon stock price today,price_query
+what does apple do,ticker_information
+what sector should i invest,sector_recommendation
+nvidia news sentiment,news_sentiment
+compare uber and lyft,comparison
+netflix value,price_query
+tesla sentiment score,news_sentiment
+SNAP price,price_query
+recommend a sector,sector_recommendation
+amazon company profile,ticker_information
+sector recommendation today,sector_recommendation
+recommend a good sector,sector_recommendation
+intel stock price,price_query
+DIS stock price,price_query
+netflix company profile,ticker_information
+apple news score,news_sentiment
+intel news analysis,news_sentiment
+best sector right now,sector_recommendation
+meta company details,ticker_information
+uber vs grab,comparison
+news sentiment tesla,news_sentiment
+amd current price,price_query
+intel company description,ticker_information
+recommend innovative sector,sector_recommendation
+INTC details,ticker_information
+LYFT prediction tomorrow,prediction
+amazon price now,price_query
+nvidia or amd for investment,comparison
+meta vs twitter comparison,comparison
+salesforce price,price_query
+META vs SNAP comparison,comparison
+predict zoom tomorrow,prediction
+microsoft trading price,price_query
+ibm stock prediction tomorrow,prediction
+best sector for future,sector_recommendation
+tesla tomorrow price prediction,prediction
+best sector for investment now,sector_recommendation
+WMT current value,price_query
+tell me about google,ticker_information
+microsoft current value,price_query
+predict meta tomorrow,prediction
+ORCL stock tomorrow,prediction
+predict pepsi tomorrow,prediction
+google stock value,price_query
+ZM price,price_query
+which sector to invest in,sector_recommendation
+uber lyft comparison,comparison
+NFLX or DIS which better,comparison
+what sector is hot,sector_recommendation
+what is netflix,ticker_information
+tomorrow tesla prediction,prediction
+tell me microsoft prediction tomorrow,prediction
+which sector is trending,sector_recommendation
+AAPL information,ticker_information
+nvidia news analysis,news_sentiment
+TSLA details,ticker_information
+TSLA current value,price_query
+what is amazon,ticker_information
+UBER tomorrow forecast,prediction
+tell me about walmart,ticker_information
+describe alphabet,ticker_information
+sector analysis,sector_recommendation
+updated meta sentiment,news_sentiment
+recommend emerging sector,sector_recommendation
+microsoft news sentiment,news_sentiment
+compare tesla and ford,comparison
+which sector is strong,sector_recommendation
+sector suggestion,sector_recommendation
+what's your prediction for microsoft tomorrow,prediction
+best sector for profits,sector_recommendation
+google stock details,ticker_information
+info on NVDA,ticker_information
+netflix vs hbo comparison,comparison
+current price of AAPL,price_query
+recommend investing sector,sector_recommendation
+meta versus snap,comparison
+NFLX details,ticker_information
+best performing sector,sector_recommendation
+google sentiment score,news_sentiment
+amazon current value,price_query
+amazon tomorrow stock,prediction
+best healthcare sector,sector_recommendation
+recommend good sector,sector_recommendation
+boeing tomorrow prediction,prediction
+compare meta and snap,comparison
+SPOT tomorrow prediction,prediction
+predict ibm for tomorrow,prediction
+coca cola or pepsi,comparison
+recommend safe sector,sector_recommendation
+tesla news today,news_sentiment
+sector recommendation,sector_recommendation
+CRM stock price,price_query
+KO prediction for tomorrow,prediction
+tell me about amazon,ticker_information
+sector recommendation please,sector_recommendation
+tell me about apple,ticker_information
+which sector is performing well,sector_recommendation
+microsoft sentiment score,news_sentiment
+recommend technology sector,sector_recommendation
+compare walmart and target,comparison
+nvidia worth,price_query
+new nvidia sentiment,news_sentiment
+info on NFLX,ticker_information
+info on TSLA,ticker_information
+UBER current price,price_query
+coca cola forecast tomorrow,prediction
+coca cola pepsi comparison,comparison
+snap current price,price_query
+apple company overview,ticker_information
+what is AMD worth,price_query
+tesla company description,ticker_information
+predict amazon tomorrow,prediction
+show me apple news,news_sentiment
+intel sentiment today,news_sentiment
+amd tomorrow forecast please,prediction
+microsoft news,news_sentiment
+tomorrow's apple stock prediction,prediction
+walmart stock price now,price_query
+predict uber stock tomorrow,prediction
+info on AAPL,ticker_information
+google news analysis,news_sentiment
+check apple price,price_query
+which sector is profitable,sector_recommendation
+show tesla forecast for tomorrow,prediction
+tesla news sentiment,news_sentiment
+best financial sector,sector_recommendation
+sector investment idea,sector_recommendation
+coca cola or pepsi better,comparison
+tesla vs ford which to buy,comparison
+details on nvidia,ticker_information
+which sector is stable,sector_recommendation
+what sector to invest,sector_recommendation
+amazon stock check,price_query
+GOOGL vs AMZN,comparison
+GOOGL versus AMZN,comparison
+google stock price,price_query
+today google sentiment,news_sentiment
+what will AAPL be tomorrow,prediction
+describe walmart company,ticker_information
+META tomorrow forecast,prediction
+best sector now,sector_recommendation
+what's tomorrow's prediction for oracle,prediction
+GOOGL information,ticker_information
+amazon vs walmart comparison,comparison
+difference between apple and microsoft,comparison
+check apple sentiment,news_sentiment
+netflix forecast tomorrow,prediction
+google sentiment analysis,news_sentiment
+walmart news score,news_sentiment
+recommend sector investment,sector_recommendation
+META stock prediction tomorrow,prediction
+WMT sentiment,news_sentiment
+recent tesla sentiment,news_sentiment
+recommend growth sector,sector_recommendation
+walmart price check,price_query
+facts about microsoft,ticker_information
+should i choose apple or microsoft,comparison
+google company overview,ticker_information
+info on MSFT,ticker_information
+which sector should i go with,sector_recommendation
+show microsoft price,price_query
+TSLA compared to F,comparison
+info on GOOGL,ticker_information
+what will intel be worth tomorrow,prediction
+compare AAPL with MSFT,comparison
+recommend growing sector,sector_recommendation
+WMT tomorrow forecast,prediction
+INTC sentiment analysis,news_sentiment
+netflix or disney better,comparison
+google price check,price_query
+recommend cyclical sector,sector_recommendation
+amazon price info,price_query
+walmart sentiment score,news_sentiment
+UBER vs LYFT,comparison
+what is apple stock,ticker_information
+netflix sentiment analysis,news_sentiment
+meta news,news_sentiment
+IBM price now,price_query
+what is apple stock price,price_query
+meta sentiment info,news_sentiment
+google tomorrow prediction,prediction
+meta or twitter better,comparison
+amazon sentiment today,news_sentiment
+sector to invest in,sector_recommendation
+google amazon comparison,comparison
+boeing price,price_query
+predict walmart stock for tomorrow,prediction
+zoom stock forecast tomorrow,prediction
+GOOGL current price,price_query
+recommend defensive sector,sector_recommendation
+tesla vs rivian which better,comparison
+TSLA price now,price_query
