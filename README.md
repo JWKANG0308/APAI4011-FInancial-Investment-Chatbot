@@ -94,22 +94,8 @@ finance-investment-chatbot/
 │   │   ├── JNJ.txt
 │   │   ├── UNH.txt
 │   │   └── WMT.txt
-│   └── processed/
+│
 │
 ├── models/
-│   ├── task_classifier.pkl
-│   ├── task_classifier_history.json
-│   ├── lstm_stock_prediction_model.pth
-│   └── price_scalers.pkl
-│
-├── outputs/
-│   ├── training_loss.png
-│   ├── test_actual_vs_predicted.png
-│   ├── wmt_tracking.png
-│   └── training_metrics.csv
-│
-├── notebooks/
-│   └── Chatbot_colab_original.ipynb
-│
-└── examples/
-    └── sample_queries.txt
+    ├── task_classifier.pkl
+    ├── lstm_stock_prediction_model.pth
