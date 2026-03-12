@@ -6,7 +6,7 @@ A finance-focused investment chatbot built in Python that supports stock-related
 This project was originally developed as a semester project in Google Colab and later reorganized into a modular GitHub repository.
 
 ## Report
-[Final Project Report](report/From Intent to Insight A Multi Task Conversational Agent for Financial Decision Support.pdf)
+[Final Project Report](report/final_report.pdf)
 
 ---
 
